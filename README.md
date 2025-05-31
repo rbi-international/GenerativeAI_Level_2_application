@@ -89,31 +89,35 @@ Ideal for e-commerce businesses, market researchers, and product managers who ne
 # Project Credits and Resources
 
 ## Inspiration and Tutorials
-Subscribe to [dswithbappy](https://www.youtube.com/@dswithbappy) for more tutorials and guidance on building LLM applications with LangChain and Streamlit.
+Subscribe to [**dswithbappy YouTube Channel**](https://www.youtube.com/@dswithbappy) for more tutorials and guidance on building LLM applications with LangChain and Streamlit.
 
 ## Key Technologies and Frameworks
 
-### [LangChain](https://www.langchain.com/)
-- Framework for developing LLM-powered applications
+### LangChain
+- **Website:** [https://www.langchain.com/](https://www.langchain.com/)
+- **Framework for developing LLM-powered applications**
 - Provides powerful tools for working with language models
-- GitHub: [LangChain Official Repository](https://github.com/langchain-ai/langchain)
+- **GitHub Repository:** [LangChain Official Repository](https://github.com/langchain-ai/langchain)
 
-### [Streamlit](https://streamlit.io/)
-- Open-source app framework for Machine Learning and Data Science
+### Streamlit
+- **Website:** [https://streamlit.io/](https://streamlit.io/)
+- **Open-source app framework for Machine Learning and Data Science**
 - Easily create web applications with Python
-- GitHub: [Streamlit Official Repository](https://github.com/streamlit/streamlit)
+- **GitHub Repository:** [Streamlit Official Repository](https://github.com/streamlit/streamlit)
 
-### [OpenAI](https://openai.com/)
-- Leading artificial intelligence research laboratory
+### OpenAI
+- **Website:** [https://openai.com/](https://openai.com/)
+- **Leading artificial intelligence research laboratory**
 - Provides state-of-the-art language models
-- GitHub: [OpenAI API Library](https://github.com/openai/openai-python)
+- **GitHub Repository:** [OpenAI API Library](https://github.com/openai/openai-python)
 
 ## Acknowledgements
-- Special thanks to [dswithbappy](https://www.youtube.com/@dswithbappy) for providing invaluable tutorials
+- Special thanks to [dswithbappy YouTube Channel](https://www.youtube.com/@dswithbappy) for providing invaluable tutorials
 - Inspiration and learning resources that made this project possible
 
 ## Learn More
-- [LangChain Documentation](https://python.langchain.com/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [OpenAI API Documentation](https://platform.openai.com/docs/)
+- **Documentation Links:**
+  - [LangChain Documentation](https://python.langchain.com/)
+  - [Streamlit Documentation](https://docs.streamlit.io/)
+  - [OpenAI API Documentation](https://platform.openai.com/docs/)
 ```
