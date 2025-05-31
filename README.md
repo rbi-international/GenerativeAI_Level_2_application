@@ -83,3 +83,14 @@ Features:
 Use Case:
 Ideal for e-commerce businesses, market researchers, and product managers who need to analyze customer feedback efficiently.
 ```
+
+
+```bash
+Credits
+These applications were created as part of a learning project. Special thanks to:
+
+Subscribe to "dswithbappy [dswithbappy](https://www.youtube.com/@dswithbappy)" for more tutorials and guidance on building LLM applications with LangChain and Streamlit. The original content that inspired these applications can be found on this channel.
+LangChain for providing the framework
+Streamlit for the web application framework
+OpenAI for the language models
+```
