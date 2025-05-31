@@ -86,11 +86,34 @@ Ideal for e-commerce businesses, market researchers, and product managers who ne
 
 
 ```bash
-Credits
-These applications were created as part of a learning project. Special thanks to:
+# Project Credits and Resources
 
-Subscribe to [dswithbappy](https://www.youtube.com/@dswithbappy) for more tutorials and guidance on building LLM applications with LangChain and Streamlit. The original content that inspired these applications can be found on this channel.
-LangChain for providing the framework
-Streamlit for the web application framework
-OpenAI for the language models
+## Inspiration and Tutorials
+Subscribe to [dswithbappy](https://www.youtube.com/@dswithbappy) for more tutorials and guidance on building LLM applications with LangChain and Streamlit.
+
+## Key Technologies and Frameworks
+
+### [LangChain](https://www.langchain.com/)
+- Framework for developing LLM-powered applications
+- Provides powerful tools for working with language models
+- GitHub: [LangChain Official Repository](https://github.com/langchain-ai/langchain)
+
+### [Streamlit](https://streamlit.io/)
+- Open-source app framework for Machine Learning and Data Science
+- Easily create web applications with Python
+- GitHub: [Streamlit Official Repository](https://github.com/streamlit/streamlit)
+
+### [OpenAI](https://openai.com/)
+- Leading artificial intelligence research laboratory
+- Provides state-of-the-art language models
+- GitHub: [OpenAI API Library](https://github.com/openai/openai-python)
+
+## Acknowledgements
+- Special thanks to [dswithbappy](https://www.youtube.com/@dswithbappy) for providing invaluable tutorials
+- Inspiration and learning resources that made this project possible
+
+## Learn More
+- [LangChain Documentation](https://python.langchain.com/)
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [OpenAI API Documentation](https://platform.openai.com/docs/)
 ```
