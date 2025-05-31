@@ -85,7 +85,7 @@ Ideal for e-commerce businesses, market researchers, and product managers who ne
 ```
 
 
-```bash
+
 # Project Credits and Resources
 
 ## Inspiration and Tutorials
@@ -120,4 +120,3 @@ Subscribe to [**dswithbappy YouTube Channel**](https://www.youtube.com/@dswithba
   - [LangChain Documentation](https://python.langchain.com/)
   - [Streamlit Documentation](https://docs.streamlit.io/)
   - [OpenAI API Documentation](https://platform.openai.com/docs/)
-```
