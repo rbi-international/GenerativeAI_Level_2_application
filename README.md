@@ -3,13 +3,13 @@ This repository contains five Streamlit applications built with LangChain that d
 Table of Contents
 
 Overview
-Applications
 
-Text Redaction Improver
-Blog Post Generator
-Split and Summarize
-Text Summarization
-Extract Data from Reviews
+# Applications
+    * Text Redaction Improver
+    * Blog Post Generator
+    * Split and Summarize
+    * Text Summarization
+    * Extract Data from Reviews
 
 
 Installation
@@ -19,9 +19,7 @@ Installation
 * Environment Variables
 * Contributing
 * License
-```
 
-```bash
 Overview
 This collection showcases how to build interactive web applications that leverage the power of OpenAI's language models through LangChain and Streamlit. Each application demonstrates different capabilities and use cases for LLMs in real-world scenarios.
 Applications
